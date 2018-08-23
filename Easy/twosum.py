@@ -9,7 +9,5 @@ def twoSum(nums, target):
         dict[x] = i
 
 
-
-
 if __name__ == '__main__':
     twoSum([2,7,11,15], 9)
