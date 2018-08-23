@@ -1,5 +1,5 @@
 # solution 1
-# Time Limit Exceeded
+# run time: Time Limit Exceeded
 # return a list, [index1,index2]
 def twoSum(nums, target):
     length = len(nums)
