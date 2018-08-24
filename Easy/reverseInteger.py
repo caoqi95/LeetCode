@@ -1,3 +1,5 @@
+# solution
+# run time: 116ms
 def reverse(x):
     """
     :param x: int
