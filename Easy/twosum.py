@@ -14,13 +14,13 @@ def twoSum(nums, target):
 
 
 # solution 2
-# run time: 1127ms
+# run time: 1172ms
 # return a list, [index1,index2]
 def twoSum(nums, target):
     for i in range(len(nums)):
         diff = target - nums[i]
         if diff in nums and nums.index(diff) != i:
-            nums[i] = float('nan')
+            nums[i] = float('nan') # from other's solution
             return [i, nums.index(diff)]
 
 
