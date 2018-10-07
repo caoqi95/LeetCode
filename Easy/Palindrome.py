@@ -1,3 +1,6 @@
+# solution 
+# run time: 276ms
+
 def isPalindrome(x):
     """
     :type x: int
