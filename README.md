@@ -10,4 +10,6 @@
 + Valid Parentheses                          - 2018-10-07
 + Merge Two Sorted Lists  
 + Remove Duplicates from Sorted Array    
++ Remove Element                             - 2018-11-04
++ strStr
 
