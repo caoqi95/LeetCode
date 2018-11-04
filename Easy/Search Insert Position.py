@@ -8,17 +8,17 @@ class Solution:
         insert = 0
         if target in nums:
             insert = nums.index(target)
-            print(insert)
+            #print(insert)
             return insert
         elif nums[-1] < target:
             insert = len(nums)
-            print(insert)
+            #print(insert)
             return insert
         else:
             for i in range(len(nums)):
                 if nums[i]> target :
                     insert = i
-                    print(insert)
+                    #print(insert)
                     return insert
 
 if __name__ == '__main__':
