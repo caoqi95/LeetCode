@@ -11,5 +11,6 @@
 + Merge Two Sorted Lists  
 + Remove Duplicates from Sorted Array    
 + Remove Element                             - 2018-11-04
-+ strStr
++ Implement strStr()
++ Search Insert Position
 
