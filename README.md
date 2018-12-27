@@ -13,4 +13,5 @@
 + Remove Element                             - 2018-11-04
 + Implement strStr()
 + Search Insert Position
++ Count and Say                              - 2018-12-27
 
