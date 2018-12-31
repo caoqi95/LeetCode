@@ -18,3 +18,4 @@
 + 58-Length of Last Word    
 + 66-Plus One   
 
++ 67-And Binary                                           - 2018-12-31
