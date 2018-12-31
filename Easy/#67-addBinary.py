@@ -11,6 +11,8 @@ Example 2:
 
 Input: a = "1010", b = "1011"
 Output: "10101"
+
+solution from this blog：https://blog.csdn.net/guoziqing506/article/details/51555714
 """
 class Solution:
     def addBinary(self, a, b):
