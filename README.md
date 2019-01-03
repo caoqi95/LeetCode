@@ -17,5 +17,6 @@
 + 53-Maximum Subarray                           - 2018-12-30
 + 58-Length of Last Word    
 + 66-Plus One   
-
-+ 67-And Binary                                           - 2018-12-31
++ 67-And Binary                                 - 2018-12-31
++ 69-Sqrt(x)                                    - 2019-01-02
++ 70-Climbing Stairs                            - 2019-01-03
