@@ -36,7 +36,7 @@ Output: false
 
 
 # Definition for a binary tree node.
-# class TreeNode:
+#class TreeNode:
 #     def __init__(self, x):
 #         self.val = x
 #         self.left = None
@@ -57,3 +57,5 @@ class Solution:
             return False
 
         return Solution.isSameTree(self, p.left, q.left) and Solution.isSameTree(self, p.right, q.right)
+
+
