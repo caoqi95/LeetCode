@@ -22,3 +22,5 @@
 + 70-Climbing Stairs                            - 2019-01-03
 + 83-Remove Duplicates from Sorted List         - 2019-01-04  
 + 88-Merge Sorted Array                         - 2019-01-07
++ 100-Same Tree                                 - 2019-01-10
++ 101-Symmetric Tree                            - 2019-01-10
