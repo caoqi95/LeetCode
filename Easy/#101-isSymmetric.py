@@ -40,11 +40,12 @@ class Solution:
         return filpAndCheck(root.left, root.right)
 
 
-# 先确保两个根的值是否相等
-# 再确保一个根的两个子根是否与另一根的两个子根的翻转相同
+# 1. 先确保两个根的值是否相等
+# 2. 再确保一个根的两个子根是否与另一根的两个子根的翻转相同
 def filpAndCheck(root1, root2):
     if root1 and root2:
         return root1.val == root2.val and filpAndCheck(root1.left, root2.right) and filpAndCheck(root1.right,
                                                                                                  root2.left)
-
+    # 如果其中一个为 null，则返回 False
+    # 如果两个都为 null，则返回 True
     return not (root1 or root2)
