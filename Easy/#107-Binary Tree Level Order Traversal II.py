@@ -24,6 +24,7 @@ return its bottom-up level order traversal as:
 #         self.left = None
 #         self.right = None
 
+# solution from : https://leetcode.com/problems/binary-tree-level-order-traversal-ii/discuss/209736/Python-Fast-BFS-40ms-(greater99.8)
 class Solution:
     def levelOrderBottom(self, root):
         """
