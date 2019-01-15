@@ -29,7 +29,8 @@ Given the following tree [1,2,2,3,3,null,null,4,4]:
  4   4
 Return false.
 """
-# 方法一
+# solution from this site's comment:
+#  https://leetcode.com/problems/balanced-binary-tree/discuss/35886/A-simple-Python-recursive-solution-172ms
 # Definition for a binary tree node.
 # class TreeNode:
 #     def __init__(self, x):
