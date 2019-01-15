@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ac868dc2-1421-4b4a-b5d9-322206e78f52" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Easy/#110-isBalanced.py" beforeDir="false" afterPath="$PROJECT_DIR$/Easy/#110-isBalanced.py" afterDir="false" />
-    </list>
+    <list default="true" id="ac868dc2-1421-4b4a-b5d9-322206e78f52" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -14,7 +12,7 @@
     <session id="-1911943220">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="3" />
+          <entry key="project.closed" value="4" />
           <entry key="project.open.time.3" value="2" />
           <entry key="project.open.time.5" value="1" />
           <entry key="project.open.time.9" value="1" />
@@ -210,7 +208,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="8" y="0" width="1240" height="1408" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23920266" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
