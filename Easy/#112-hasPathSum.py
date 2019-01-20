@@ -36,4 +36,4 @@ class Solution:
         sum -= root.val
         if not root.left and not root.right:  # if reach a leaf
             return sum == 0
-        return self.hasPathSum(root.left) or self.hasPathSum(root.right)
+        return self.hasPathSum(root.left, sum) or self.hasPathSum(root.right, sum)
