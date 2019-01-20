@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ac868dc2-1421-4b4a-b5d9-322206e78f52" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/mi.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Easy/###112-hasPathSum.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Easy/#112-hasPathSum.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Easy/###112-hasPathSum.py" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -75,11 +74,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="###112-hasPathSum.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Easy/###112-hasPathSum.py">
+      <file leaf-file-name="#112-hasPathSum.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Easy/#112-hasPathSum.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="394">
-              <caret line="38" column="72" lean-forward="true" selection-start-line="38" selection-start-column="72" selection-end-line="38" selection-end-column="72" />
+            <state relative-caret-position="454">
+              <caret line="38" column="72" selection-start-line="38" selection-start-column="72" selection-end-line="38" selection-end-column="72" />
             </state>
           </provider>
         </entry>
@@ -110,6 +109,7 @@
         <option value="$PROJECT_DIR$/Easy/#110-isBalanced.py" />
         <option value="$PROJECT_DIR$/Easy/#111-minDepth.py" />
         <option value="$PROJECT_DIR$/Easy/###112-hasPathSum.py" />
+        <option value="$PROJECT_DIR$/Easy/#112-hasPathSum.py" />
       </list>
     </option>
   </component>
@@ -306,6 +306,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Easy/###112-hasPathSum.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="379">
+          <caret line="37" column="27" lean-forward="true" selection-end-line="38" selection-end-column="72" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Easy/#111-minDepth.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-6">
@@ -313,10 +320,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Easy/###112-hasPathSum.py">
+    <entry file="file://$PROJECT_DIR$/Easy/#112-hasPathSum.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="394">
-          <caret line="38" column="72" lean-forward="true" selection-start-line="38" selection-start-column="72" selection-end-line="38" selection-end-column="72" />
+        <state relative-caret-position="454">
+          <caret line="38" column="72" selection-start-line="38" selection-start-column="72" selection-end-line="38" selection-end-column="72" />
         </state>
       </provider>
     </entry>
