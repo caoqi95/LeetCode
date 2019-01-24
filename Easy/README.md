@@ -28,3 +28,10 @@
 + 107-Binary Tree Level Order Traversal II      - 2019-01-13
 + 108-Convert Sorted Array to Binary Search Tree    - 2019-01-14
 + 110-Balanced Binary Tree                       - 2019-01-15
++ 111-Minimum Depth of Binary Tree               - 2019-01-20
++ 112-Path Sum
++ 118-Pascal's Triangle
++ 119-Pascal's Triangle II                       - 2019-01-20
++ 121-Best Time to Buy and Sell Stock            - 2019-01-21
++ 125-Valid Palindrome                           - 2019-01-24
++ 136-Single Number                              - 2019-01-25
