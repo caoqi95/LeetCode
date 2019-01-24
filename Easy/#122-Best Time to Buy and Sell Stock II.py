@@ -46,7 +46,7 @@ class Solution:
 
 if __name__ == '__main__':
 
-    #prices = [7, 1, 5, 3, 6, 4]
+    # prices = [7, 1, 5, 3, 6, 4]
     # prices = [7, 6, 5, 3, 1]
     prices = [2, 4, 1]
     solution = Solution()
