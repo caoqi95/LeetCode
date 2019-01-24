@@ -33,3 +33,5 @@
 + 118-Pascal's Triangle
 + 119-Pascal's Triangle II                       - 2019-01-20
 + 121-Best Time to Buy and Sell Stock            - 2019-01-21
++ 125-Valid Palindrome                           - 2019-01-24
++ 136-Single Number                              - 2019-01-25
