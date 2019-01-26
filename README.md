@@ -35,3 +35,5 @@
 + 121-Best Time to Buy and Sell Stock            - 2019-01-21
 + 125-Valid Palindrome                           - 2019-01-24
 + 136-Single Number                              - 2019-01-25
++ 141-Linked List Cycle                          - 2019-01-26
++ 155-Min Stack                                  - 2019-01-26
