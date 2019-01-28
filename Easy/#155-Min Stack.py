@@ -50,7 +50,7 @@ class MinStack(object):
         if len(self.stack) == 0:
             return None
         else:
-            return self.stack[len(self.stack) - 1][0]
+            return self.stack[len(self.stack) - 1][0] # 返回最后一个元祖中的第一个元素，即当时的 top 值
 
     def getMin(self):
         """
@@ -59,7 +59,7 @@ class MinStack(object):
         if len(self.stack) == 0:
             return None
         else:
-            return self.stack[len(self.stack) - 1][1]
+            return self.stack[len(self.stack) - 1][1] # 返回最后一个元祖中的第二个元素，即当时的最小值
 
 # Your MinStack object will be instantiated and called as such:
 # obj = MinStack()
