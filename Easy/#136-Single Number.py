@@ -43,27 +43,17 @@ class Solution:
         
        
 
-        # leetcode 解法二：列表操作，耗时长
-        no_list = []
-        for i in nums:
-            if i not in no_list:
-                no_list.append(i)
-            else:
-                no_list.remove(i)
-        print(no_list.pop())
-        #return no_list.pop()
-         """
-
-        # leetcode 解法三：哈希表，待研究
+        # leetcode 解法二：哈希表解法
         hash_table = {}
         for i in nums:
             try:
-                hash_table.pop(i)
+                hash_table.pop(i) # d 中已存在的就删去
             except:
-                hash_table[i] = i
+                hash_table[i] = i # d 中没有的就添加
 
         # print(hash_table.popitem()[0])
-        return hash_table.popitem()[0]
+        # popitem() 直接返回一个键值对（key，value）
+        return hash_table.popitem()[0] # 得到 key
 
 
 if __name__ == '__main__':
