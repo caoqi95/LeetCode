@@ -1,3 +1,4 @@
+"""
 # solution 1
 # run time: Time Limit Exceeded
 # return a list, [index1,index2]
@@ -22,13 +23,14 @@ def twoSum(nums, target):
         if diff in nums and nums.index(diff) != i:
             nums[i] = float('nan') # from other's solution
             return [i, nums.index(diff)]
-
+"""
 
 
 
 # solusion 3, from other's solution
 # run time : 48ms
 # return a tuple, (index1, index2)
+# 该方法修改一下 return 也可以用于 Two Sum II
 def twoSum(nums, target):
     dict = {}
     for i in range(len(nums)):
