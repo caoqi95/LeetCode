@@ -26,7 +26,8 @@ class Solution(object):
         :type head: ListNode
         :rtype: bool
         """
-        # 利用快慢指针证明一个链表是否为循环的
+        # 利用快慢指针证明一个链表是否为循环
+        # 快指针的速度为 2N，慢指针的速度为 N
 
         slow = fast = head
 
