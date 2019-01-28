@@ -66,9 +66,6 @@ class Solution:
         return hash_table.popitem()[0]
 
 
-
-
-
 if __name__ == '__main__':
 
     nums = [1, 0, 1]
