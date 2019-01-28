@@ -35,7 +35,7 @@ class Solution(object):
             for i in range(lenB - lenA):
                 curB = curB.next
         
-        # 如果两个链表不相同则继续
+        # 如果两个链表不相同则继续，需要注意的是这里判断的不是两个链表的 val
         while curB != curA:
             curB = curB.next
             curA = curA.next
