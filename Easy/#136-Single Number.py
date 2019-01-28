@@ -40,7 +40,7 @@ class Solution:
         # leetcode 解法一：数学法 2∗(a+b+c)−(a+a+b+b+c)=c，运行时间少
         print(2 * sum(set(nums)) - sum(set(nums)))
         return 2 * sum(set(nums)) - sum(set(nums))
-        
+        """
        
 
         # leetcode 解法二：哈希表解法
@@ -62,4 +62,4 @@ if __name__ == '__main__':
     # nums = [2, 2, 1]
     # nums = [4, 1, 2, 1, 2, 3, 3]
     solution = Solution()
-    solution.singleNumber(nums)
+    solution.singleNumber(nums) 
