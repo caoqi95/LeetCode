@@ -24,8 +24,8 @@ class Solution(object):
         for i in range(len(numbers)):
             x = numbers[i]
             if target-x in d:
-                print(d[target-x] + 1, i + 1)
-                return (d[target-x] + 1, i + 1)
+                print([d[target-x] + 1, i + 1])
+                return [d[target-x] + 1, i + 1]
 
             d[x] = i
         
