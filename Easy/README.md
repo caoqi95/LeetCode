@@ -40,3 +40,5 @@
 + 160-Intersection of Two Linked Lists           - 2019-01-28
 + 167-Two Sum II                                 - 2019-01-28
 + 168-Excel Sheet Column Title                   - 2019-01-29
++ 169-Majority Element                           - 2019-01-29
++ 171-Excel Sheet Column Number                  - 2019-01-29
