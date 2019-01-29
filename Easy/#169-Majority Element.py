@@ -29,7 +29,7 @@ class Solution(object):
             else:
                 stack[i] = 1
         #print(stack)
-        # 如果值得个数大于 list 长度的一半，则返回这个值
+        # 如果值的个数大于 list 长度的一半，则返回这个值
         for k, v in stack.items():
             if v > (len(nums) / 2):
                 #print(k)
