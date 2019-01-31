@@ -42,5 +42,8 @@
 + 168-Excel Sheet Column Title                   - 2019-01-29
 + 169-Majority Element                           - 2019-01-29
 + 171-Excel Sheet Column Number                  - 2019-01-29
++ 172-Factorial Trailing Zeroes                  - 2019-01-30
 
 *175, 176, 181-183 都是 MySQL 的问题*
+
++ 189-Rotate Array                               - 2019-01-31
