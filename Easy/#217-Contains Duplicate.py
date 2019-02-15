@@ -22,9 +22,8 @@ class Solution(object):
         :type nums: List[int]
         :rtype: bool
         """
-        if nums is None or len(nums) == 0 :
-            return False
-        
+
+        """ 好理解，速度慢 
         d = []
         for i in nums:
             if d == [] or i not in d:
@@ -33,11 +32,13 @@ class Solution(object):
                 d.remove(i)
             
         return not (len(d) == len(nums))
-
+        """
+        # 速度快
+        return not (len(set(nums)) == len(nums))
 
 if __name__ == "__main__":
 
-    nums = [0]
-    # nums = [1, 2, 3, 4]
+    # nums = [0]
+    nums = [1, 2, 3, 4]
     solution = Solution()
     print(solution.containsDuplicate(nums))

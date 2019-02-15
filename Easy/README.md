@@ -48,3 +48,7 @@
 + 191-Number of 1 Bits                              - 2019-02-08
 + 198-House Robber                                  - 2019-02-09
 + 202-Happy Number                                  - 2019-02-11
+
+*下面按照类别开始刷，时间上会有点混乱*
++ 217-Contains Duplicate                            - 2019-02-15
++ 219-Contains Duplicate II                         - 2019-02-15
