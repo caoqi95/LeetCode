@@ -52,3 +52,6 @@
 *下面按照类别开始刷，时间上会有点混乱*
 + 217-Contains Duplicate                            - 2019-02-15
 + 219-Contains Duplicate II                         - 2019-02-15
++ 268-Missing Number                                - 2019-02-16
++ 283-Move Zeroes                                   - 2019-02-16
++ 414-Third Maximum Number                          - 2019-02-16
