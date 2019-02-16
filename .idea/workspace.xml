@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ac868dc2-1421-4b4a-b5d9-322206e78f52" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Easy/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Easy/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Easy/#448-Find All Numbers Disappeared in an Array.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -46,32 +47,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="#283-Move Zeroes.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Easy/#283-Move Zeroes.py">
+      <file leaf-file-name="#448-Find All Numbers Disappeared in an Array.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Easy/#448-Find All Numbers Disappeared in an Array.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="18" column="53" selection-start-line="18" selection-start-column="53" selection-end-line="18" selection-end-column="53" />
+            <state relative-caret-position="348">
+              <caret line="24" column="47" selection-start-line="24" selection-start-column="47" selection-end-line="24" selection-end-column="47" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="#414-Third Maximum Number.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Easy/#414-Third Maximum Number.py">
+      <file leaf-file-name="#268-Missing Number.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Easy/#268-Missing Number.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="228">
-              <caret line="39" column="26" lean-forward="true" selection-start-line="39" selection-start-column="26" selection-end-line="39" selection-end-column="26" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Easy/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="345">
-                <caret line="56" column="64" lean-forward="true" selection-start-line="56" selection-start-column="64" selection-end-line="56" selection-end-column="64" />
-              </first_editor>
-              <second_editor />
+            <state relative-caret-position="183">
+              <caret line="23" selection-start-line="23" selection-end-line="26" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -116,6 +105,7 @@
         <option value="$PROJECT_DIR$/Easy/#283-Move Zeroes.py" />
         <option value="$PROJECT_DIR$/Easy/#414-Third Maximum Number.py" />
         <option value="$PROJECT_DIR$/Easy/README.md" />
+        <option value="$PROJECT_DIR$/Easy/#448-Find All Numbers Disappeared in an Array.py" />
       </list>
     </option>
   </component>
@@ -167,25 +157,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.#414-Third Maximum Number">
-    <configuration name="#155-Min Stack" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="LeetCode" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Easy" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Easy/#155-Min Stack.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
+  <component name="RunManager" selected="Python.#448-Find All Numbers Disappeared in an Array">
     <configuration name="#189-Rotate Array" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="LeetCode" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -258,20 +230,38 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
+    <configuration name="#448-Find All Numbers Disappeared in an Array" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="LeetCode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Easy" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Easy/#448-Find All Numbers Disappeared in an Array.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <list>
-      <item itemvalue="Python.#155-Min Stack" />
       <item itemvalue="Python.#189-Rotate Array" />
       <item itemvalue="Python.#268-Missing Number" />
       <item itemvalue="Python.#283-Move Zeroes" />
       <item itemvalue="Python.#414-Third Maximum Number" />
+      <item itemvalue="Python.#448-Find All Numbers Disappeared in an Array" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.#448-Find All Numbers Disappeared in an Array" />
         <item itemvalue="Python.#414-Third Maximum Number" />
         <item itemvalue="Python.#283-Move Zeroes" />
         <item itemvalue="Python.#268-Missing Number" />
         <item itemvalue="Python.#189-Rotate Array" />
-        <item itemvalue="Python.#155-Min Stack" />
       </list>
     </recent_temporary>
   </component>
@@ -301,14 +291,14 @@
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21087533" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21087533" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32941177" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.19970194" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.2071535" />
       <window_info anchor="bottom" id="Python Console" order="10" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="8" visible="true" weight="0.3219076" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.3219076" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -351,7 +341,7 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="3" />
+      <option name="time" value="4" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
@@ -377,13 +367,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Easy/#268-Missing Number.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="273">
-          <caret line="31" column="20" lean-forward="true" selection-start-line="31" selection-start-column="20" selection-end-line="31" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Easy/#283-Move Zeroes.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
@@ -401,10 +384,24 @@
     <entry file="file://$PROJECT_DIR$/Easy/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="345">
+          <first_editor relative-caret-position="300">
             <caret line="56" column="64" lean-forward="true" selection-start-line="56" selection-start-column="64" selection-end-line="56" selection-end-column="64" />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Easy/#268-Missing Number.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="183">
+          <caret line="23" selection-start-line="23" selection-end-line="26" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Easy/#448-Find All Numbers Disappeared in an Array.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="348">
+          <caret line="24" column="47" selection-start-line="24" selection-start-column="47" selection-end-line="24" selection-end-column="47" />
         </state>
       </provider>
     </entry>
