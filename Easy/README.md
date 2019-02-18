@@ -58,4 +58,4 @@
 + 448-Find All Number Disappeared in an Array       - 2019-02-16
 + 485-Max Consecutive Ones                          - 2019-02-17
 + 509-Fibonacci Number                              - 2019-02-17
-+ 532-K-diff Pairs in an array                      - 2019-02-18
++ 532-K-diff Pairs in an Array                      - 2019-02-18
