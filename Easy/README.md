@@ -59,3 +59,4 @@
 + 485-Max Consecutive Ones                          - 2019-02-17
 + 509-Fibonacci Number                              - 2019-02-17
 + 532-K-diff Pairs in an Array                      - 2019-02-18
++ 561-Array Partition I                             - 2019-02-19
