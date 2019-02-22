@@ -44,7 +44,6 @@ class Solution(object):
         return sum(1 for x in nums if x in diffs)
 
 
-
 if __name__ == "__main__":
 
     nums = [3, 1, 4, 1, 5]
