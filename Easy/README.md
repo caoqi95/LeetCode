@@ -67,3 +67,4 @@
 + 643-Maximum Average Subarray I                    - 2019-02-26
 + 661-Image Smoother                                - 2019-02-26
 + 665-Non-decreasing Array                          - 2019-02-28
++ 674-Longest Continuous Increasing Subsequence     - 2019-03-02
