@@ -34,9 +34,6 @@ class Solution(object):
             right[x] = i
             count[x] = count.get(x, 0) + 1
             
-        print(left)
-        print(right)
-        print(count)
 
         ans = len(nums)
         degree = max(count.values())
