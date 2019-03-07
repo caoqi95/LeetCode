@@ -72,3 +72,4 @@
 + 697-Degree of an Array                            - 2019-03-03
 + 717-1-bit and 2-bit Characters                    - 2019-03-04
 + 724-Find Pivot Index                              - 2019-03-06
++ 746-Min Cost Climbing Stairs                      - 2019-03-07
