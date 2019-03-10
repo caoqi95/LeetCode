@@ -40,20 +40,19 @@ class Solution(object):
         :type matrix: List[List[int]]
         :rtype: bool
         """
-        groups = {}
+        groups = {}  # 用于存储对角线上的值
         for r, row in enumerate(matrix):
-            for c, val in enumerate(row):
-                if r-c not in groups:
-                    groups[r-c] = val
-                elif groups[r-c] != val:
-                    return False
-        print(groups)
+          for c, val in enumerate(row):
+            if r-c not in groups: # 如果 r-c 不存在，则增加其和其对应的值
+              groups[r-c] = val
+            elif groups[r-c] != val: # 如果 r-c 对应的值与原有的值不符，则返回 False
+              return False
+            
         return True
-
 
 if __name__ == "__main__":
 
     matrix = [[1, 2, 3, 4], [5, 1, 2, 3], [9, 5, 1, 2]]  # return True
-    # matrix = [[1, 2], [2, 2]]
+    # matrix = [[1, 2], [2, 2]]  # return False
     solution = Solution()
     print(solution.isToeplitzMatrix(matrix))
