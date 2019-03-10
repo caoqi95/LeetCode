@@ -74,3 +74,4 @@
 + 724-Find Pivot Index                              - 2019-03-06
 + 746-Min Cost Climbing Stairs                      - 2019-03-07
 + 747-Largest Number At Least Twice of Others       - 2019-03-08
++ 766-Toeplitz Matrix                               - 2019-03-10
