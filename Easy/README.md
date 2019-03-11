@@ -76,3 +76,5 @@
 + 747-Largest Number At Least Twice of Others       - 2019-03-08
 + 766-Toeplitz Matrix                               - 2019-03-10
 + 830-Positions of Large Groups                     - 2019-03-10
++ 832-Flipping an Image                             - 2019-03-11
+
