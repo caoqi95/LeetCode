@@ -77,4 +77,4 @@
 + 766-Toeplitz Matrix                               - 2019-03-10
 + 830-Positions of Large Groups                     - 2019-03-10
 + 832-Flipping an Image                             - 2019-03-11
-
++ 840-Magic Squares In Grid                         - 2019-03-12
