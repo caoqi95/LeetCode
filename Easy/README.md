@@ -79,3 +79,7 @@
 + 832-Flipping an Image                             - 2019-03-11
 + 840-Magic Squares In Grid                         - 2019-03-12
 + 849-Maximize Distance to Closest Person           - 2019-03-15
++ 867-Transpose Matrix                              - 2019-03-17
++ 888-Fair Candy Swap                               - 2019-03-17
+
+
