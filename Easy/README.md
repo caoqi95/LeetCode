@@ -82,5 +82,7 @@
 + 867-Transpose Matrix                              - 2019-03-17
 + 888-Fair Candy Swap                               - 2019-03-17
 + 896-Monotonic Array                               - 2019-07-11
++ 905-Sort Array By Parity                          - 2019-07-11
++ 922-Sort Array By Parity II                       - 2019-07-11
 
 
