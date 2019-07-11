@@ -81,5 +81,6 @@
 + 849-Maximize Distance to Closest Person           - 2019-03-15
 + 867-Transpose Matrix                              - 2019-03-17
 + 888-Fair Candy Swap                               - 2019-03-17
++ 896-Monotonic Array                               - 2019-07-11
 
 
