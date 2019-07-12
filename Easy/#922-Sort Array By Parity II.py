@@ -16,7 +16,7 @@ Input: [4,2,5,7]
 Output: [4,5,2,7]
 Explanation: [4,7,2,5], [2,5,4,7], [2,7,4,5] would also have been accepted.
 """
-#from itertools import chain
+from itertools import chain
 
 class Solution(object):
     def sortArrayByParityII(self, A):
@@ -25,16 +25,16 @@ class Solution(object):
         :rtype: List[int]
         """
         
-        """ Time Limit Exceeded
+        # solution 1 - my solution
         
-        even = [A[i] for i in range(len(A)) if A[i] % 2 == 0]
-        odd = [A[i] for i in range(len(A)) if A[i] not in even]     
+        even = [i for i in A if i % 2 == 0]
+        odd = [i for i in A if i % 2 == 1]     
         res = list(chain.from_iterable(zip(even, odd)))
         
         return res
         """
         
-        # solution 
+        # solution 2
         
         N = len(A)
         ans = [None] * N
@@ -55,7 +55,7 @@ class Solution(object):
         # and[1::2] = (x for x in A if x % 2 == 1)
         
         return ans
-        
+        """
     
 
 if __name__ == "__main__":
