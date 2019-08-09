@@ -86,4 +86,5 @@
 + 914-X of a Kind in a Deck of Cards.py             - 2019-07-29
 + 922-Sort Array By Parity II                       - 2019-07-11
 + 941-Valid Mountain Array                          - 2019-08-07
++ 977-Squares of a Sorted Array.py                  - 2019-08-09
 
