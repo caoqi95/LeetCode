@@ -83,8 +83,8 @@
 + 888-Fair Candy Swap                               - 2019-03-17
 + 896-Monotonic Array                               - 2019-07-11
 + 905-Sort Array By Parity                          - 2019-07-11
-+ 914-X of a Kind in a Deck of Cards.py             - 2019-07-29
++ 914-X of a Kind in a Deck of Cards                - 2019-07-29
 + 922-Sort Array By Parity II                       - 2019-07-11
 + 941-Valid Mountain Array                          - 2019-08-07
-+ 977-Squares of a Sorted Array.py                  - 2019-08-09
-
++ 977-Squares of a Sorted Array                     - 2019-08-09
++ 985-Sum of Even Numbers After Queries             - 2020-04-17
