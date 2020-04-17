@@ -1,2 +1,2 @@
 # LeetCode
-LeetCode learning record.
+LeetCode solution record.
