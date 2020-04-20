@@ -63,4 +63,4 @@ if __name__ == "__main__":
     A = [1, 2, 0, 0]
     K = 34
     solution = Solution()
-    print(solution.addToArrayForm(A))
+    print(solution.addToArrayForm(A, K))
