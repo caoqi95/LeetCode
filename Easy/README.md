@@ -89,3 +89,4 @@
 + 977-Squares of a Sorted Array                     - 2019-08-09
 + 985-Sum of Even Numbers After Queries             - 2020-04-17
 + 989-Add to Array-Form of Integer                  - 2020-04-17
++ 999-Available Captures for Rook                   - 2020-04-20
