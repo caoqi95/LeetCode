@@ -91,4 +91,5 @@
 + 989-Add to Array-Form of Integer                  - 2020-04-17
 + 999-Available Captures for Rook                   - 2020-04-20
 + 1002-Find Common Characters                       - 2020-04-22
-+ 1010-Pairs of Songs With Total Durations Divisible by 60    - 2020-04-37
++ 1010-Pairs of Songs With Total Durations Divisible by 60    - 2020-04-30
++ 1013-Partition Array Into Three Parts With Equal Sum        - 2020-06-10
